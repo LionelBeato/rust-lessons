@@ -77,10 +77,5 @@ fn main() {
     }; 
 
     println!("{}", my_cow.describe());
-    
-    let dasds = 1;
-
-    
-
-
+        
 }
