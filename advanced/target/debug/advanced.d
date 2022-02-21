@@ -1,0 +1,1 @@
+/Users/lionel.beato/Projects/rust-lessons/advanced/target/debug/advanced: /Users/lionel.beato/Projects/rust-lessons/advanced/src/generic_struct.rs /Users/lionel.beato/Projects/rust-lessons/advanced/src/main.rs /Users/lionel.beato/Projects/rust-lessons/advanced/src/traits_lesson.rs
